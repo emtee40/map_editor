@@ -8,6 +8,6 @@ Google translation:
 
 An early version of the map editor, 2009.
 An example of the use of design patterns.
-Work with DB zakommenchena.
+Working with the database.
 
 Build: qmake-qt4 && make
